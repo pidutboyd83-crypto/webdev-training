@@ -16,3 +16,4 @@ A simple web development training project with example pages and basic HTML stru
 
 - This repository is intended for learning and practicing basic HTML structure.
 - Add styles, assets, and scripts as needed to expand the project.
+
